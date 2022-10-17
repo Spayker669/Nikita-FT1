@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(238, 231, 187);
+    font-size: 16px;
+    color: rgb(44, 33, 33);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+.photo{
+   width: 200px;
+   height: 300px;
+   border-radius: 50px;
+   box-shadow: 0 0 10px;
+}
+.skill{
+    background-color: rgb(162, 255, 146);
+    margin-top:20px ;
+    padding: 8px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px;
+}
+.hobbi{
+    background-color: rgb(254, 195, 209);
+    margin-top: 25px;
+    padding: 8px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px;
+}
+.type-1{
+    border-radius: 5px;
+    box-shadow: 20px;
+    color: rgb(10, 10, 10);
+    background-color: aliceblue;
+}
+.textarea{
+    border-radius: 5px;
+    box-shadow: 20px;
+    color: rgb(10, 10, 10);
+    background-color: aliceblue; 
+}
+.button{
+    padding: 10px;
+    border: none;
+    background-color: rgb(244, 179, 81);
+    color: rgb(128, 74, 9);
+    font-weight: ;
+    border-radius: 5px;
+   width: 150px;
+   box-shadow: 0 0 10;
+}
